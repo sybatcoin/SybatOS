@@ -1,0 +1,11 @@
+C:\Projects\sybat project\SybatOS\SybatOS\bin\Debug\SybatOS.exe.config
+C:\Projects\sybat project\SybatOS\SybatOS\bin\Debug\SybatOS.exe
+C:\Projects\sybat project\SybatOS\SybatOS\bin\Debug\SybatOS.pdb
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Debug\SybatOS.csproj.AssemblyReference.cache
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Debug\SybatOS.Form1.resources
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Debug\SybatOS.Properties.Resources.resources
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Debug\SybatOS.csproj.GenerateResource.cache
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Debug\SybatOS.csproj.CoreCompileInputs.cache
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Debug\SybatOS.exe
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Debug\SybatOS.pdb
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Debug\SybatOS.SybatOS.resources

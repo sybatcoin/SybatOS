@@ -1,0 +1,10 @@
+C:\Projects\sybat project\SybatOS\SybatOS\bin\Release\SybatOS.exe.config
+C:\Projects\sybat project\SybatOS\SybatOS\bin\Release\SybatOS.exe
+C:\Projects\sybat project\SybatOS\SybatOS\bin\Release\SybatOS.pdb
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Release\SybatOS.Form1.resources
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Release\SybatOS.SybatOS.resources
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Release\SybatOS.Properties.Resources.resources
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Release\SybatOS.csproj.GenerateResource.cache
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Release\SybatOS.csproj.CoreCompileInputs.cache
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Release\SybatOS.exe
+C:\Projects\sybat project\SybatOS\SybatOS\obj\Release\SybatOS.pdb
